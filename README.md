@@ -1,4 +1,4 @@
-# FastAPI Grade Calculator (fastapi_sqlite_model)
+# FastAPI Grade Calculator (fastapi_sqlite_concept)
 
 A FastAPI application to calculate grades from numerical scores and persist student records in a SQLite database using SQLAlchemy.
 
